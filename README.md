@@ -1,5 +1,7 @@
 # Twikoo 云函数
 
+Twikoo | 一个简洁、安全、免费的静态网站评论系统
+
 ## 部署
 
 请查看 [Netlify 部署](https://twikoo.js.org/backend.html#netlify-部署)
